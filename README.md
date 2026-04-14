@@ -15,17 +15,17 @@ A simple Python CLI trading bot that places MARKET and LIMIT orders on Binance F
 
 ## Project Structure
 
-trading_bot/<br>
+<b>trading_bot/</b><br>
 │<br>
-├── bot/<br>
-│   ├── client.py<br>
-│   ├── orders.py<br>
-│   ├── validators.py<br>
-│   ├── logging_config.py<br>
+├── <b>bot/</b><br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── client.py<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── orders.py<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── validators.py<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── logging_config.py<br>
 │<br>
 ├── cli.py<br>
 ├── requirements.txt<br>
-├── README.md<br>
+└── README.md<br>
 
 ## Setup
 
