@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Binance Futures Testnet Trading Bot
 
 A simple Python CLI trading bot that places MARKET and LIMIT orders on Binance Futures Testnet (USDT-M).
